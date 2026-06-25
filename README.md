@@ -1,138 +1,68 @@
 # 🎨 PaletteFlow
 
-PaletteFlow is a modern color palette generator designed for designers, developers, and creators who need beautiful and professionally matched color combinations for their projects.
+A modern 5-color palette generator built with HTML, CSS and JavaScript.
 
-The application provides carefully curated 5-color palettes that work well together for websites, mobile applications, branding, logos, dashboards, and modern user interfaces.
-
-Built with HTML, CSS, and JavaScript, PaletteFlow focuses on simplicity, speed, and an elegant user experience while helping users discover visually appealing color combinations instantly.
+Generate beautiful matching color palettes instantly and copy HEX codes with a single click.
 
 ---
 
-## ✨ Overview
+## ✨ Features
 
-PaletteFlow consists of two main pages.
+- Generate 5 Color Palettes
+- One Click Generation
+- Copy HEX Codes
+- Responsive Design
+- Modern UI
+- Fast & Lightweight
+
+---
+
+## 🖥️ Pages
 
 ### 🏠 Landing Page
 
-The landing page introduces the project with a modern design and provides information about the generator.
-
-#### Features
-
-- Modern Hero Section
-- Project Introduction
-- Feature Showcase
-- Responsive Layout
+- Hero Section
+- Project Overview
 - Start Creating Button
 
 ### 🎨 Generator Page
 
-The generator page displays a complete 5-color palette and allows users to generate new palettes instantly.
-
-#### Features
-
-- 5 Large Color Columns
-- HEX Color Display
-- One Click Generation
-- Copy To Clipboard
-- Responsive Design
-- Spacebar Shortcut Support
+- 5 Color Palette
+- Generate Button
+- Copy Color Support
 
 ---
 
-## 🚀 Features
+## 🛠️ Technologies
 
-- 🎨 Beautiful 5 Color Palettes
-- ⚡ Instant Palette Generation
-- 📋 Copy HEX Codes
-- 🌈 Carefully Matched Colors
-- 💎 Clean Modern Interface
-- 📱 Mobile Friendly Design
-- 🚀 Lightweight Performance
-- 🎯 Easy To Use
-- ⌨️ Keyboard Shortcut Support
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
-## 🛠️ Technologies Used
+## 🚀 Usage
 
-### HTML5
-
-Used for creating the structure and layout of the application.
-
-### CSS3
-
-Used for styling, responsiveness, animations, gradients, and modern UI effects.
-
-### JavaScript
-
-Used for palette generation, color updates, clipboard functionality, and interactive features.
-
----
-
-## 🎯 Use Cases
-
-PaletteFlow can be used for:
-
-- Website Design
-- Mobile App Design
-- UI/UX Projects
-- Branding Projects
-- Design Systems
-- Landing Pages
-- Portfolio Projects
-- Frontend Development
-
----
-
-## ⚙️ How It Works
-
-1. Open the application
+1. Open the website
 2. Click Start Creating
-3. Generate a new palette
-4. Click any color to copy its HEX code
-5. Use the colors in your project
+3. Generate a palette
+4. Copy any HEX code
+5. Use it in your project
 
 ---
 
-## 🌟 Future Improvements
+## 🌟 Future Updates
 
-- 200+ Curated Palettes
-- Save Favorite Palettes
-- Export Palette As PNG
-- Dark Theme
-- Light Theme
-- Palette Search
-- Advanced Color Tools
-- Palette Categories
-- Color Accessibility Checker
-
----
-
-## 📈 Learning Objectives
-
-This project demonstrates:
-
-- DOM Manipulation
-- Event Handling
-- Responsive Web Design
-- Modern CSS Layouts
-- JavaScript Logic
-- Clipboard API Usage
-- Frontend Project Structure
-
----
-
-## 📄 License
-
-This project is open source and available for educational and personal use.
+- More Palettes
+- Export Feature
+- Favorite Palettes
+- Dark Mode
 
 ---
 
 ## ❤️ Made With
 
 HTML • CSS • JavaScript
-
-Designed and developed as a frontend practice project focused on creativity, color theory, and modern web development.
 
 ## 📂 Project Structure
 
