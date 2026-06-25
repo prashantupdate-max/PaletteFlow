@@ -69,24 +69,6 @@ Used for palette generation, color updates, clipboard functionality, and interac
 
 ---
 
-## 📂 Project Structure
-
-```text
-PaletteFlow/
-│
-├── index.html
-│
-├── generator.html
-│
-├── style.css
-│
-├── script.js
-│
-└── README.md
-```
-
----
-
 ## 🎯 Use Cases
 
 PaletteFlow can be used for:
