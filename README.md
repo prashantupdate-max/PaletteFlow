@@ -25,20 +25,4 @@ Generate beautiful matching color palettes instantly and copy HEX codes with a s
 
 ---
 
-## 📂 Project Structure
-
-```text
-PaletteFlow/
-│
-├── index.html
-│   └── Landing Page
-│
-├── generator.html
-│   └── Palette Generator
-│
-├── style.css
-│   └── Complete Styling
-│
-└── script.js
-    └── Palette Logic
-```
+⭐ If you like this project, don't forget to **Star** the repository!
